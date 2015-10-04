@@ -136,6 +136,10 @@ input {
   box-shadow: none;
 }
 
+.logo{
+
+}
+
 :-moz-placeholder {
   color: #ccc;
   font-weight: 300;

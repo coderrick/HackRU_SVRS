@@ -157,6 +157,12 @@ input {
   box-shadow: none;
 }
 
+.logo{
+position=absolute;
+ left=400;
+ top = 0;
+}
+
 :-moz-placeholder {
   color: #ccc;
   font-weight: 300;
